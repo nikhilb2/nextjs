@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "clsx": "latest",
-    "next": "latest",
+    "next": "^8.0.0",
     "prop-types": "latest",
     "react": "latest",
     "react-dom": "latest"
